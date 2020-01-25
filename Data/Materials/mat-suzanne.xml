@@ -1,0 +1,8 @@
+<material>
+	<cull value="ccw"/>
+	<shadowcull value="ccw"/>
+	<fill value="solid"/>
+	<texture name="Textures/suzanne_tex.png" unit="diffuse"/>
+	<texture name="Textures/suzanne_norm.png" unit="normal"/>
+	<technique loddistance="0" name="Techniques/DiffNormal.xml" quality="0"/>
+</material>
